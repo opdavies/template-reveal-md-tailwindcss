@@ -21,7 +21,7 @@ generate-theme-css: install-node-dependencies
 	npx encore dev
 
 generate-static-slides: install-node-dependencies install-shared-assets
-	NODE_ENV=production npx encore production --progress
+	npx encore production --progress
 	rm -fr _static
 	npx reveal-md $(REVEAL_ARGS) --static --asset-dirs=assets
 
