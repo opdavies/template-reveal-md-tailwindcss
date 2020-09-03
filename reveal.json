@@ -1,4 +1,7 @@
 {
+  "backgroundTransition": "none",
   "controls": false,
-  "progress": false
+  "pdfSeparateFragments": false,
+  "progress": false,
+  "transition": "none"
 }

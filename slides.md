@@ -1,9 +1,4 @@
 ---
-highlightTheme: a11y-light
-revealOptions:
-  backgroundTransition: 'none'
-  transition: 'none'
-theme: none
 title: Template for presentations using reveal-md and Tailwind CSS
 ---
 

@@ -1,4 +1,6 @@
 {
-  "separator": "^~~~",
-  "verticalSeparator": "^~~"
+  "highlightTheme": "a11y-light",
+  "separator": "<!--s-->",
+  "theme": "theme/slides.css",
+  "verticalSeparator": "<!--v-->"
 }
